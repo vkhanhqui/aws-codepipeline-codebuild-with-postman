@@ -6,7 +6,7 @@ Resources:
     Properties:
       StageName: prod
       DefinitionUri: petstore-swagger.json
-    
+
 Outputs:
 
     PetStoreAPI:
